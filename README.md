@@ -1,5 +1,6 @@
 ## kintone API 学習
 [cybozu developer network チュートリアル](https://cybozu.dev/ja/tutorials/)
+チュートリアルに沿って学習を進めていきます。
 
 ### [はじめよう JavaScript](https://cybozu.dev/ja/id/2a9a73c8502ce6b9a69fff71/)
 
