@@ -1,0 +1,1 @@
+# js-kintone-intermediate-practice
