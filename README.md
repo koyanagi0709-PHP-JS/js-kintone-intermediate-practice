@@ -5,7 +5,7 @@
 ### [はじめよう JavaScript](https://cybozu.dev/ja/id/2a9a73c8502ce6b9a69fff71/)
 
 1. [HTML/CSSを書いてみよう](https://cybozu.dev/ja/id/05e74126afddaba349ce9852/)
-2. JavaScriptでアウトプット（出力）してみよう
+2. [JavaScriptでアウトプット（出力）してみよう](https://cybozu.dev/ja/id/e7a6f732aa884950eb1c3444/)
 3. 変数/データ型/データの演算方法を学んでみよう
 4. 条件分岐/繰り返し処理をしてみよう
 5. 配列/オブジェクトを操作してみよう
