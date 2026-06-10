@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>関数とは</title>
+</head>
+<body>
+    <h1>Kintone 関数とは</h1>
+    <p>
+        関数とは、呼び出すとさまざまな処理を行ってくれるものです。
+        自分で関数を作ることもでき、よく使う処理や複数の処理をまとめることができます。
+        関数がオブジェクトの中に入っている場合は、メソッドと呼ばれます。
+        ウィンドウにアラートを表示できるwindow.alert()は、windowオブジェクトの中にあるalert()メソッドを呼び出しているということになります。
+    </p>
+    <script>
+        function showAlert() {
+            window.alert('Hello! kintone');
+        }
+        showAlert();
+
+        function showAlert2(message) {
+            window.alert(message);
+        }
+        showAlert2('私はタバスコを持っています。');
+        showAlert2('初めての関数を実行');
+    </script>
+</body>
+</html>
