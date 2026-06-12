@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>mouseover</title>
+    <style>
+        #kintone {
+            background-color: yellow;
+        }
+    </style>
+</head>
+<body>
+    <img src="https://fc.ashrose.net/PD/jpg_M/0029.jpg" id="kintone" alt="パブリックドメイン画像">
+    <script>
+        const kintone = document.getElementById('kintone');
+        kintone.addEventListener('load',(event) => {
+            console.log('画像が表示されました。');
+            console.log(event);
+        },false);
+    </script>
+</body>
+</html>

@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>change</title>
+</head>
+<body>
+    <form action="#">
+        <input type="text" value="" name="text" id="text1">
+    </form>
+    <script>
+        document.getElementById('text1').onchange = () => {
+            console.log('text1の内容が変更されました。');
+        };
+    </script>
+</body>
+</html>

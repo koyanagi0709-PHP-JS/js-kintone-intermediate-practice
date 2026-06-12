@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="ja">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>イベントを使って処理してみよう</title>
+</head>
+<body>
+    <h1 id="overview">Kintone</h1>
+    <script>
+        const overview = document.getElementById('overview');
+        const showMessage = () => {
+            console.log('概要がクリックされました');
+        };
+        overview.addEventListener('click', showMessage, false);
+    </script>
+</body>
+</html>
