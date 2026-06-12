@@ -11,6 +11,6 @@
 5. [配列/オブジェクトを操作してみよう](https://cybozu.dev/ja/id/e748774be690026745015758/)
 6. [関数を使ってみよう](https://cybozu.dev/ja/id/2a74bae8b48f65de89b6c694/)
 7. [イベントを使って処理してみよう](https://cybozu.dev/ja/id/35687d7fa6cf6deb84b7aa8a/)
-8. ライブラリを使ってみよう
-9. Promiseとasync/awaitで非同期処理をしてみよう
+8. [ライブラリを使ってみよう](https://cybozu.dev/ja/id/b4fa686452a9ffbba8d349d5/)
+9. [Promiseとasync/awaitで非同期処理をしてみよう](https://cybozu.dev/ja/id/dc34904c60bf584f04878073/)
 10. Web APIを使ってみよう
