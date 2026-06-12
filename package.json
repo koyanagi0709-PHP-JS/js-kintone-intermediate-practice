@@ -1,0 +1,25 @@
+{
+  "name": "kintone-javascript-api",
+  "version": "1.0.0",
+  "description": "[cybozu developer network チュートリアル](https://cybozu.dev/ja/tutorials/)\r チュートリアルに沿って学習を進めていきます。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyanagi0709-PHP-JS/js-kintone-intermediate-practice.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/koyanagi0709-PHP-JS/js-kintone-intermediate-practice/issues"
+  },
+  "homepage": "https://github.com/koyanagi0709-PHP-JS/js-kintone-intermediate-practice#readme",
+  "dependencies": {
+    "dayjs": "^1.11.21",
+    "sweetalert2": "^11.26.25"
+  }
+}
