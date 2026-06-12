@@ -1,0 +1,10 @@
+# Node.jsでのコマンドテンプレ
+Vscodeのターミナルでcmd（command）を選択する。
+
+# まだ package.json がないときだけ
+npm init -y
+
+# ライブラリインストール（SweetAlert2）
+npm install sweetalert2
+
+sweetalert2の部分をインストールしたいライブラリに変更する。
