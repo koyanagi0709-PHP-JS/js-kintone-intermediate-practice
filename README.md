@@ -10,7 +10,7 @@
 4. [条件分岐/繰り返し処理をしてみよう](https://cybozu.dev/ja/id/8722b17b86abd3d717a842ca/)
 5. [配列/オブジェクトを操作してみよう](https://cybozu.dev/ja/id/e748774be690026745015758/)
 6. [関数を使ってみよう](https://cybozu.dev/ja/id/2a74bae8b48f65de89b6c694/)
-7. イベントを使って処理してみよう
+7. [イベントを使って処理してみよう](https://cybozu.dev/ja/id/35687d7fa6cf6deb84b7aa8a/)
 8. ライブラリを使ってみよう
 9. Promiseとasync/awaitで非同期処理をしてみよう
 10. Web APIを使ってみよう
